@@ -51,3 +51,5 @@ check git status and follow steps to add and commit
 push changes on terminal
 pull changes on github
 get them checked and pulled by another team mate
+
+wow
