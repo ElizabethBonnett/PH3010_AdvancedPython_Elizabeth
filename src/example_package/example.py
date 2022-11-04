@@ -17,4 +17,4 @@ def add_one(number):
     2
 
     """
-    return number + 1
+    return number + 2
