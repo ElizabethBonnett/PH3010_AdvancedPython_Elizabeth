@@ -37,3 +37,17 @@ Let's look at each element individually
 * `tests/` contains the tests of the python package
 
 adding a line to test if i can push and pull. good luck!!!
+
+it worked!!!
+
+Now I know I need to:
+open an issue
+assign a person
+open a branch and follow instructions
+check your on the right branch
+open file from files and make changes
+save changes
+check git status and follow steps to add and commit
+push changes on terminal
+pull changes on github
+get them checked and pulled by another team mate
